@@ -1,6 +1,6 @@
 # nextjs-go-wasm
 
-###　内容
+### 内容
 
 Next.js \* Go(WASM)で簡易的な Web アプリケーションの作成
 
